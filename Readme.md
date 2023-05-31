@@ -1,11 +1,19 @@
-UM-3 👍Project Setup
-UM-4 👍Setup express,mongoose,cors,parser
-UM-5 👍Setup Eslint,Prettier,Husky,Lint stage
-UM-6 👍Create User Interface and Models
-UM-7 👍Create user service
-**switch branch**
+###    `mac-management-auth-1`
 
-`git checkout UM-3`
+---
+
+To run the file in your computer
+
+1. [clone the project](https://github.com/bappasahabapi/mac-management-auth-1.git)
+
+2. `cd mac-managemetnt-auth-1`
+
+3. ` yarn install`
+
+4. `yarn start `
+
+
+
 
 ### UM-6 👍Create User Interface and Modules
 
@@ -86,14 +94,3 @@ npm install --save-dev eslint-config-prettier
 `yarn add -D lint-staged`
 
 ---
-### UM-6 👍Create User Interface and Modules
-
-[visit this doc](https://mongoosejs.com/docs/typescript.html)
-
-Create:
-
-make `interface` -> `sechema` --> `model`-->`service`-->`controller`-->`route`
-
-  users.interface.ts
-  users.model.ts
-  user.service.ts
