@@ -23,11 +23,11 @@ To run the file in your computer
 
 make `interface` -> `sechema` --> `model`-->`service`-->`controller`-->`route`
 
-  users.interface.ts
-  users.model.ts
-  user.service.ts
-  user.utils.ts
-  user.controller.ts
+  - users.interface.ts
+  - users.model.ts
+  - user.service.ts
+  - user.utils.ts
+  - user.controller.ts
 
 
 
